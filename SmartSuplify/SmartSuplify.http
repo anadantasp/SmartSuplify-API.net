@@ -1,0 +1,6 @@
+@SmartSuplify_HostAddress = http://localhost:5202
+
+GET {{SmartSuplify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
