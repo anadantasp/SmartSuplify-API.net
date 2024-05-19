@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "CL9SzCyoxDI3keJ01+Du5FNAJ8QsRPgX8T0L95apMXE=",
-  "Source": "SmartSuplify",
-  "BasePath": "_content/SmartSuplify",
+  "Hash": "7npx+3wNXY/En9qnCyyKjRqZ4V9qA7TOtIERhfOfzpk=",
+  "Source": "SmartSuplify.API",
+  "BasePath": "_content/SmartSuplify.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

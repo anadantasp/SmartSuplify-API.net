@@ -4380,9 +4380,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\SmartSuplify.csproj",
-      "projectName": "SmartSuplify",
-      "projectPath": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\SmartSuplify.csproj",
+      "projectUniqueName": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\SmartSuplify.API.csproj",
+      "projectName": "SmartSuplify.API",
+      "projectPath": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\SmartSuplify.API.csproj",
       "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\obj\\",
       "projectStyle": "PackageReference",

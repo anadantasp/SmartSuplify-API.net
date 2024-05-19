@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UA5RhT7AIN97ILdTvLOEwn/lwezW2fVcIh0Kb7PDKmjwq4rHvBtH/Lt9WwOJIUU4G0UTlljY1xwh9nbBSqpD5Q==",
+  "dgSpecHash": "Ex96og2BF+jDP0on1+79eeIDcYpl87glEE5Yy40fBEgi2BpV/uCd7dOA3Iyiluf75W2Ah9mWd+K+nfLneWRvRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\SmartSuplify.csproj",
+  "projectFilePath": "C:\\Users\\anaca\\source\\repos\\SmartSuplify\\SmartSuplify\\SmartSuplify.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anaca\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
